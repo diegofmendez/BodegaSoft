@@ -1,2 +1,1 @@
-# BodegaSoft
-Parcial 2 POO
+Este codigo solo posee el login y sin persistencia
