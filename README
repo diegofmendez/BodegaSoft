@@ -1,0 +1,5 @@
+Author: Diego Mendez
+
+This app shows a login page that works only with a predefined username and password.
+The username and password are obtained from an object, but the constructor of it is only used in code and in excecution there is no method to register a new username or password.
+When the login is successful another page is loaded but it´s empty.
