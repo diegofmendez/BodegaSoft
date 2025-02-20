@@ -1,0 +1,8 @@
+Diego Mendez
+This code is a login page, which checks if you put a certain predefined username and predefined password(They tell you what they are).
+The username and password come from an object, which has a constructor de define them, but the program doesnt come with a register page.
+
+When you enter the right user and password, the page redirects you to another page, but due to time constrains it is empty, leftovers of the purpose of this page lie in the code.
+
+There is no data persistence included.
+
